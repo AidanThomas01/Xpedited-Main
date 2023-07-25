@@ -18,6 +18,11 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "PaperFlipbookWidget",
+			"Enabled": true,
+			"MarketplaceURL": "https://unrealengineresources.com/plugins"
 		}
 	]
 }

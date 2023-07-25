@@ -23,6 +23,10 @@
 			"Name": "PaperFlipbookWidget",
 			"Enabled": true,
 			"MarketplaceURL": "https://unrealengineresources.com/plugins"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
 		}
 	]
 }
